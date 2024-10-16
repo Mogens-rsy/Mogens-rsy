@@ -9,4 +9,6 @@
   
   > i want to learn more about <sub>SQL</sub> and <sup>Python</sup>
 
-
+- [x] solve the task
+- [ ] Update the website
+- [ ] Contact the media
